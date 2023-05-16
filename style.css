@@ -1,26 +1,4 @@
-.cabeçalho {
-    background-color: rgb(23, 133, 127);
-    color:rgb(233, 227, 227);
-    display:flex;
-    justify-content: space-around;
-    align-items: center;
-    padding: 24px 0;
- }
- 
- 
- .cabeçalhp-imagem{
-    width: 20%;
- }
- 
- 
- .cabeçalho-lista-item{
-    display: inline-block;
-    margin: 0 16px;
-    font-size: 24px;
- }
- 
- 
- .escola-imagem{
-    width: 25%;
- }
- 
+header {
+    background-color: #061b96;
+    color: white;
+}
