@@ -1,4 +1,10 @@
-header{
-    background-color: blue
-
+body{
+    background-color: #020469;
+    color: rgb(253, 253, 253)
 }
+.cabecalho {
+    background-color: #383D58;
+    color: white;
+    display:flex;
+    justify-content: space-around;
+    }
