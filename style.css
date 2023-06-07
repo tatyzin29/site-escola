@@ -7,4 +7,25 @@ body{
     color: white;
     display:flex;
     justify-content: space-around;
-    }
+    align-items: center;
+    padding: 24px;
+
+}
+.cabecalho-imagem{
+    width: 20%;
+}
+.cabecalho-lista-item{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 24px;
+}
+
+  .formula{ 
+    width: 10%;
+    height: 40%;
+  }
+  .escola-imagem{
+    width: 25%;
+    
+  }
+  
